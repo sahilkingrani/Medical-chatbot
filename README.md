@@ -14,11 +14,11 @@ This is a simple medical chatbot that uses LangChain and HuggingFace model to pr
    - Go to your profile settings and create an API token
    - Copy the token and replace `"your_huggingface_token_here"` in the `memory_chat_bot.py` file
 
+
 ## Usage
 
 Run the chatbot with:
 
-```
 python memory_chat_bot.py
 ```
 
@@ -31,7 +31,7 @@ Type `exit` to end the conversation.
 - Conversation memory that maintains context throughout the interaction
 - Medical-focused prompt template
 - Uses HuggingFace's language models for generating responses
-- Simple command-line interface
+- Simple command-line interface.
 
 
 ## Disclaimer
