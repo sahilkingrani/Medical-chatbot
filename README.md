@@ -17,7 +17,7 @@ This is a simple medical chatbot that uses LangChain and HuggingFace model to pr
 
 ## Usage
 
-Run the chatbot with:
+Run this chatbot with:
 
 python memory_chat_bot.py
 ```
