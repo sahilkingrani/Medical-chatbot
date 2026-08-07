@@ -1,4 +1,4 @@
-# Medical Chatbot with Memory 
+# Medical Chatbot With Memory 
 
 This is a simple medical chatbot that uses LangChain and HuggingFace model to provide medical information with conversation memory capabilities.
 
